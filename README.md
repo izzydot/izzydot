@@ -1,10 +1,12 @@
 # 💫 About Me:
 I'm a Data Analyst and Technical Support Specialist passionate about transforming raw data into actionable insights. My expertise lies in data visualization, analytics, and problem-solving.<br><br>
 
+
 # 🚀 What I Do<br>
 📊 Analyze and visualize complex datasets to uncover meaningful trends.<br>
 🔧 Provide technical support, ensuring seamless data operations.<br>
 🤝 Open to collaborations, especially in data-related projects.<br>
+
 
 # 📫 How to Reach Me<br>
 💼 Connect with me on LinkedIn<br>
